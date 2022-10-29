@@ -57,5 +57,5 @@ p2: Autoregression Model set up at 5% significance level -> Portfolio constructi
   
   <img width="372" alt="image" src="https://user-images.githubusercontent.com/105639985/198840918-07cc04d9-f2d3-4e2f-9be6-a02f7c756d08.png">
 
-  2.5 Conslucion: the result is not very promising as whay EW achieved. But we could try to change the parameters inner the model
+  2.5 Conslucion: the result is not very promising as what EW achieved. But we could try to change the parameters inner the model
 
